@@ -1,7 +1,5 @@
 # Welcome to My Github Repository
 
-👨‍💻 Programmer | CyberSecurity Analyst | Software Developer in Progress | Free Software Enthusiast 🔐🐧
-
 👋 I'm Manuel, a tech explorer and systems engineer student at the Francisco José de Caldas University, based in Bogotá, Colombia.
 
 # Who Am I?
