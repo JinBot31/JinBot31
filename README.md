@@ -2,6 +2,10 @@
 
 👋 I'm Manuel, a tech explorer and systems engineer student at the Francisco José de Caldas University, based in Bogotá, Colombia.
 
+- [Who Am I?](#Who Am I?)
+- [What I’m Working On](#What I’m Working On)
+- [Let's Connect!](#Let's Connect!)
+
 # Who Am I?
 
   - 💻**Programmer**: I focus on writing code that's clean, easy to maintain, and can grow without breaking, all while sticking to good coding practices.
