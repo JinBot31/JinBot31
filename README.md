@@ -21,5 +21,4 @@
  📫 Reach out to me for collaborations, discussions on security, or anything related to free software!
 
 > [!IMPORTANT]
-
 > Happy coding :)
