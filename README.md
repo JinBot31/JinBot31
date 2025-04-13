@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel Castillo Acevedo</h1>
 <h3 align="center">A tech explorer and systems engineer student at the Francisco José de Caldas University, based in Bogotá, Colombia.</h3>
 
-<h5>Who am I?</h5>
+<h3 align="center">Who am I?</h3>
 
 - 💻 Programmer **I focus on writing clean, maintainable code that grows with the project, always adhering to best practices in software development.**
 
@@ -12,6 +12,17 @@
 - 🤖 Machine Learning & AI Explorer **Passionate about leveraging machine learning and artificial intelligence to automate processes, innovate, and enhance digital ecosystems.**
 
 - 🌐 Full Stack Developer **I primarily focus on backend development while also cultivating frontend skills with React, ensuring a versatile approach to building secure and scalable applications.**
+
+<h3 align="center">What I’m Working On</h3>
+- 🔧 Developing secure and efficient backend applications with a focus on scalability and performance.
+
+- 🔍 Deepening my understanding of cybersecurity measures to help create and maintain safer digital environments.
+
+- 🚀 Experimenting with machine learning, AI, and automation to streamline processes and foster technological innovation.
+
+- 🧑🏻‍💻 Investing time in studying and developing operating systems, particularly exploring Linux-based kernels using Rust.
+
+- 💡 Bridging my backend expertise with frontend development using React to create comprehensive, user-friendly solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
