@@ -1,4 +1,4 @@
-#👋 Hi, i'm Juan:
+# Hi, i'm Juan:
 <br>I am a tech and AI explorer and Systems Engineering student.<br><br>💻 Software Developer<br>I focus on writing clean, maintainable, and scalable code, always following strong engineering principles and established software development best practices.<br><br>🐧 Operating Systems Developer in Progress<br>Driven by my interest in Linux-based systems, I am actively learning and experimenting with Rust to build my own operating systems from scratch.<br><br>🛡️ Cybersecurity Enthusiast<br>I explore the field of cybersecurity by studying and analyzing systems, identifying vulnerabilities, and designing effective defense strategies.<br><br>🤖 Machine Learning & AI Explorer<br>I’m passionate about leveraging machine learning and artificial intelligence to automate processes, innovate, and enhance digital ecosystems.<br><br>🌐 Backend Developer<br>My main focus is backend development, building secure, efficient, and scalable APIs and services while continuously refining architecture, performance, and reliability.<br>
 
 
